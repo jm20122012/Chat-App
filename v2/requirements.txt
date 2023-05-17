@@ -1,0 +1,20 @@
+# Build a chat app using React
+
+- Socket.IO server
+    - User defined rooms
+    - Broadcast messages to connected clients in the same rooms
+
+- React Client
+    - Welcome Page
+        - Have a username field
+        - Have a room field
+        - Have a join room button
+    - Chat page
+        - Text area to display chat
+            - User name and message
+        - Send button
+
+# Dependencies
+    - React, React-bootstrap, bootstrap library, socket io client library, vite bundler
+    - Server: socket.io server
+
