@@ -1,0 +1,14 @@
+# Build a chat app
+
+# Client
+    - Client specified username
+    - Client specified chat room
+    - Welcome page
+    - Chat page
+
+# Server
+    - Handle user room joins
+    - Handle room leave
+    - Keep track of use defined username
+    - Be able broadcast to all users in same room
+
